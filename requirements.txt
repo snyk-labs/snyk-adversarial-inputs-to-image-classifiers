@@ -44,4 +44,4 @@ torchvision==0.15.2
 tqdm==4.67.1
 triton==2.0.0
 typing_extensions==4.12.2
-urllib3==1.26.20
+urllib3==2.6.0
