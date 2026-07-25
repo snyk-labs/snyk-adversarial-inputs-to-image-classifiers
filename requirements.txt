@@ -8,7 +8,7 @@ filelock==3.17.0
 fonttools==4.56.0
 foolbox==3.3.3
 gitdb==4.0.12
-GitPython==3.1.44
+GitPython==3.1.55
 idna==2.10
 Jinja2==3.1.6
 kiwisolver==1.4.8
